@@ -7,3 +7,4 @@ xgboost
 geopy
 folium
 streamlit-folium
+haversine
